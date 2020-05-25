@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "R8vSkM64CTuPbT2UHqYS4HkHzD7HzHnw/vnRFsJSRUgu42UhaQxaoYqiGi2doOkwY67OBForK/4wyIihKHP74w==",
+  "success": true,
+  "projectFilePath": "/home/alucard/dotnet/Chp02/Basics/Basics.csproj",
+  "expectedPackageFiles": [
+    "/home/alucard/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.2/microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
