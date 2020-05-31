@@ -1,0 +1,13 @@
+/home/alucard/dotnet/dotnetCSharpBook/Chp02/SizeofTypes/bin/Debug/netcoreapp3.1/SizeofTypes
+/home/alucard/dotnet/dotnetCSharpBook/Chp02/SizeofTypes/bin/Debug/netcoreapp3.1/SizeofTypes.deps.json
+/home/alucard/dotnet/dotnetCSharpBook/Chp02/SizeofTypes/bin/Debug/netcoreapp3.1/SizeofTypes.runtimeconfig.json
+/home/alucard/dotnet/dotnetCSharpBook/Chp02/SizeofTypes/bin/Debug/netcoreapp3.1/SizeofTypes.runtimeconfig.dev.json
+/home/alucard/dotnet/dotnetCSharpBook/Chp02/SizeofTypes/bin/Debug/netcoreapp3.1/SizeofTypes.dll
+/home/alucard/dotnet/dotnetCSharpBook/Chp02/SizeofTypes/bin/Debug/netcoreapp3.1/SizeofTypes.pdb
+/home/alucard/dotnet/dotnetCSharpBook/Chp02/SizeofTypes/obj/Debug/netcoreapp3.1/SizeofTypes.csprojAssemblyReference.cache
+/home/alucard/dotnet/dotnetCSharpBook/Chp02/SizeofTypes/obj/Debug/netcoreapp3.1/SizeofTypes.AssemblyInfoInputs.cache
+/home/alucard/dotnet/dotnetCSharpBook/Chp02/SizeofTypes/obj/Debug/netcoreapp3.1/SizeofTypes.AssemblyInfo.cs
+/home/alucard/dotnet/dotnetCSharpBook/Chp02/SizeofTypes/obj/Debug/netcoreapp3.1/SizeofTypes.csproj.CoreCompileInputs.cache
+/home/alucard/dotnet/dotnetCSharpBook/Chp02/SizeofTypes/obj/Debug/netcoreapp3.1/SizeofTypes.dll
+/home/alucard/dotnet/dotnetCSharpBook/Chp02/SizeofTypes/obj/Debug/netcoreapp3.1/SizeofTypes.pdb
+/home/alucard/dotnet/dotnetCSharpBook/Chp02/SizeofTypes/obj/Debug/netcoreapp3.1/SizeofTypes.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+/home/alucard/dotnet/dotnetCSharpBook/Chp02/double vs decimal/bin/Debug/netcoreapp3.1/double vs decimal
+/home/alucard/dotnet/dotnetCSharpBook/Chp02/double vs decimal/bin/Debug/netcoreapp3.1/double vs decimal.deps.json
+/home/alucard/dotnet/dotnetCSharpBook/Chp02/double vs decimal/bin/Debug/netcoreapp3.1/double vs decimal.runtimeconfig.json
+/home/alucard/dotnet/dotnetCSharpBook/Chp02/double vs decimal/bin/Debug/netcoreapp3.1/double vs decimal.runtimeconfig.dev.json
+/home/alucard/dotnet/dotnetCSharpBook/Chp02/double vs decimal/bin/Debug/netcoreapp3.1/double vs decimal.dll
+/home/alucard/dotnet/dotnetCSharpBook/Chp02/double vs decimal/bin/Debug/netcoreapp3.1/double vs decimal.pdb
+/home/alucard/dotnet/dotnetCSharpBook/Chp02/double vs decimal/obj/Debug/netcoreapp3.1/double vs decimal.csprojAssemblyReference.cache
+/home/alucard/dotnet/dotnetCSharpBook/Chp02/double vs decimal/obj/Debug/netcoreapp3.1/double vs decimal.AssemblyInfoInputs.cache
+/home/alucard/dotnet/dotnetCSharpBook/Chp02/double vs decimal/obj/Debug/netcoreapp3.1/double vs decimal.AssemblyInfo.cs
+/home/alucard/dotnet/dotnetCSharpBook/Chp02/double vs decimal/obj/Debug/netcoreapp3.1/double vs decimal.csproj.CoreCompileInputs.cache
+/home/alucard/dotnet/dotnetCSharpBook/Chp02/double vs decimal/obj/Debug/netcoreapp3.1/double vs decimal.dll
+/home/alucard/dotnet/dotnetCSharpBook/Chp02/double vs decimal/obj/Debug/netcoreapp3.1/double vs decimal.pdb
+/home/alucard/dotnet/dotnetCSharpBook/Chp02/double vs decimal/obj/Debug/netcoreapp3.1/double vs decimal.genruntimeconfig.cache

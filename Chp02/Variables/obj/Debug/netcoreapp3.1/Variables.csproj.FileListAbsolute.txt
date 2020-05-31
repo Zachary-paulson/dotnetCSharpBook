@@ -1,0 +1,13 @@
+/home/alucard/dotnet/dotnetCSharpBook/Chp02/Variables/obj/Debug/netcoreapp3.1/Variables.csprojAssemblyReference.cache
+/home/alucard/dotnet/dotnetCSharpBook/Chp02/Variables/obj/Debug/netcoreapp3.1/Variables.AssemblyInfoInputs.cache
+/home/alucard/dotnet/dotnetCSharpBook/Chp02/Variables/obj/Debug/netcoreapp3.1/Variables.AssemblyInfo.cs
+/home/alucard/dotnet/dotnetCSharpBook/Chp02/Variables/obj/Debug/netcoreapp3.1/Variables.csproj.CoreCompileInputs.cache
+/home/alucard/dotnet/dotnetCSharpBook/Chp02/Variables/bin/Debug/netcoreapp3.1/Variables
+/home/alucard/dotnet/dotnetCSharpBook/Chp02/Variables/bin/Debug/netcoreapp3.1/Variables.deps.json
+/home/alucard/dotnet/dotnetCSharpBook/Chp02/Variables/bin/Debug/netcoreapp3.1/Variables.runtimeconfig.json
+/home/alucard/dotnet/dotnetCSharpBook/Chp02/Variables/bin/Debug/netcoreapp3.1/Variables.runtimeconfig.dev.json
+/home/alucard/dotnet/dotnetCSharpBook/Chp02/Variables/bin/Debug/netcoreapp3.1/Variables.dll
+/home/alucard/dotnet/dotnetCSharpBook/Chp02/Variables/bin/Debug/netcoreapp3.1/Variables.pdb
+/home/alucard/dotnet/dotnetCSharpBook/Chp02/Variables/obj/Debug/netcoreapp3.1/Variables.dll
+/home/alucard/dotnet/dotnetCSharpBook/Chp02/Variables/obj/Debug/netcoreapp3.1/Variables.pdb
+/home/alucard/dotnet/dotnetCSharpBook/Chp02/Variables/obj/Debug/netcoreapp3.1/Variables.genruntimeconfig.cache
