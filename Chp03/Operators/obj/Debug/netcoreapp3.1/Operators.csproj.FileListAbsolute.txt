@@ -1,0 +1,11 @@
+/home/zach/Repo/dotnetCSharpBook/Chp03/Operators/bin/Debug/netcoreapp3.1/Operators
+/home/zach/Repo/dotnetCSharpBook/Chp03/Operators/bin/Debug/netcoreapp3.1/Operators.deps.json
+/home/zach/Repo/dotnetCSharpBook/Chp03/Operators/bin/Debug/netcoreapp3.1/Operators.runtimeconfig.json
+/home/zach/Repo/dotnetCSharpBook/Chp03/Operators/bin/Debug/netcoreapp3.1/Operators.runtimeconfig.dev.json
+/home/zach/Repo/dotnetCSharpBook/Chp03/Operators/bin/Debug/netcoreapp3.1/Operators.dll
+/home/zach/Repo/dotnetCSharpBook/Chp03/Operators/bin/Debug/netcoreapp3.1/Operators.pdb
+/home/zach/Repo/dotnetCSharpBook/Chp03/Operators/obj/Debug/netcoreapp3.1/Operators.csprojAssemblyReference.cache
+/home/zach/Repo/dotnetCSharpBook/Chp03/Operators/obj/Debug/netcoreapp3.1/Operators.AssemblyInfoInputs.cache
+/home/zach/Repo/dotnetCSharpBook/Chp03/Operators/obj/Debug/netcoreapp3.1/Operators.AssemblyInfo.cs
+/home/zach/Repo/dotnetCSharpBook/Chp03/Operators/obj/Debug/netcoreapp3.1/Operators.dll
+/home/zach/Repo/dotnetCSharpBook/Chp03/Operators/obj/Debug/netcoreapp3.1/Operators.pdb
