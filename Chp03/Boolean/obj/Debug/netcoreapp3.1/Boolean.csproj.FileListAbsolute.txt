@@ -1,0 +1,11 @@
+/home/zach/Repo/dotnetCSharpBook/Chp03/Boolean/bin/Debug/netcoreapp3.1/Boolean
+/home/zach/Repo/dotnetCSharpBook/Chp03/Boolean/bin/Debug/netcoreapp3.1/Boolean.deps.json
+/home/zach/Repo/dotnetCSharpBook/Chp03/Boolean/bin/Debug/netcoreapp3.1/Boolean.runtimeconfig.json
+/home/zach/Repo/dotnetCSharpBook/Chp03/Boolean/bin/Debug/netcoreapp3.1/Boolean.runtimeconfig.dev.json
+/home/zach/Repo/dotnetCSharpBook/Chp03/Boolean/bin/Debug/netcoreapp3.1/Boolean.dll
+/home/zach/Repo/dotnetCSharpBook/Chp03/Boolean/bin/Debug/netcoreapp3.1/Boolean.pdb
+/home/zach/Repo/dotnetCSharpBook/Chp03/Boolean/obj/Debug/netcoreapp3.1/Boolean.csprojAssemblyReference.cache
+/home/zach/Repo/dotnetCSharpBook/Chp03/Boolean/obj/Debug/netcoreapp3.1/Boolean.AssemblyInfoInputs.cache
+/home/zach/Repo/dotnetCSharpBook/Chp03/Boolean/obj/Debug/netcoreapp3.1/Boolean.AssemblyInfo.cs
+/home/zach/Repo/dotnetCSharpBook/Chp03/Boolean/obj/Debug/netcoreapp3.1/Boolean.dll
+/home/zach/Repo/dotnetCSharpBook/Chp03/Boolean/obj/Debug/netcoreapp3.1/Boolean.pdb

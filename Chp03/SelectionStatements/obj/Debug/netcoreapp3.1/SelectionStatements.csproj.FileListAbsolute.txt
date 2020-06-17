@@ -1,0 +1,11 @@
+/home/zach/Repo/dotnetCSharpBook/Chp03/SelectionStatements/bin/Debug/netcoreapp3.1/SelectionStatements
+/home/zach/Repo/dotnetCSharpBook/Chp03/SelectionStatements/bin/Debug/netcoreapp3.1/SelectionStatements.deps.json
+/home/zach/Repo/dotnetCSharpBook/Chp03/SelectionStatements/bin/Debug/netcoreapp3.1/SelectionStatements.runtimeconfig.json
+/home/zach/Repo/dotnetCSharpBook/Chp03/SelectionStatements/bin/Debug/netcoreapp3.1/SelectionStatements.runtimeconfig.dev.json
+/home/zach/Repo/dotnetCSharpBook/Chp03/SelectionStatements/bin/Debug/netcoreapp3.1/SelectionStatements.dll
+/home/zach/Repo/dotnetCSharpBook/Chp03/SelectionStatements/bin/Debug/netcoreapp3.1/SelectionStatements.pdb
+/home/zach/Repo/dotnetCSharpBook/Chp03/SelectionStatements/obj/Debug/netcoreapp3.1/SelectionStatements.csprojAssemblyReference.cache
+/home/zach/Repo/dotnetCSharpBook/Chp03/SelectionStatements/obj/Debug/netcoreapp3.1/SelectionStatements.AssemblyInfoInputs.cache
+/home/zach/Repo/dotnetCSharpBook/Chp03/SelectionStatements/obj/Debug/netcoreapp3.1/SelectionStatements.AssemblyInfo.cs
+/home/zach/Repo/dotnetCSharpBook/Chp03/SelectionStatements/obj/Debug/netcoreapp3.1/SelectionStatements.dll
+/home/zach/Repo/dotnetCSharpBook/Chp03/SelectionStatements/obj/Debug/netcoreapp3.1/SelectionStatements.pdb

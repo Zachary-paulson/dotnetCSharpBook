@@ -39,6 +39,8 @@ namespace Operators
             p += 3;
             WriteLine($"p += 3, p = {p}");
 
+            
+
         }
     }
 }

@@ -1,0 +1,11 @@
+/home/zach/Repo/dotnetCSharpBook/Chp03/BitwiseAndShiftOperators/bin/Debug/netcoreapp3.1/BitwiseAndShiftOperators
+/home/zach/Repo/dotnetCSharpBook/Chp03/BitwiseAndShiftOperators/bin/Debug/netcoreapp3.1/BitwiseAndShiftOperators.deps.json
+/home/zach/Repo/dotnetCSharpBook/Chp03/BitwiseAndShiftOperators/bin/Debug/netcoreapp3.1/BitwiseAndShiftOperators.runtimeconfig.json
+/home/zach/Repo/dotnetCSharpBook/Chp03/BitwiseAndShiftOperators/bin/Debug/netcoreapp3.1/BitwiseAndShiftOperators.runtimeconfig.dev.json
+/home/zach/Repo/dotnetCSharpBook/Chp03/BitwiseAndShiftOperators/bin/Debug/netcoreapp3.1/BitwiseAndShiftOperators.dll
+/home/zach/Repo/dotnetCSharpBook/Chp03/BitwiseAndShiftOperators/bin/Debug/netcoreapp3.1/BitwiseAndShiftOperators.pdb
+/home/zach/Repo/dotnetCSharpBook/Chp03/BitwiseAndShiftOperators/obj/Debug/netcoreapp3.1/BitwiseAndShiftOperators.csprojAssemblyReference.cache
+/home/zach/Repo/dotnetCSharpBook/Chp03/BitwiseAndShiftOperators/obj/Debug/netcoreapp3.1/BitwiseAndShiftOperators.AssemblyInfoInputs.cache
+/home/zach/Repo/dotnetCSharpBook/Chp03/BitwiseAndShiftOperators/obj/Debug/netcoreapp3.1/BitwiseAndShiftOperators.AssemblyInfo.cs
+/home/zach/Repo/dotnetCSharpBook/Chp03/BitwiseAndShiftOperators/obj/Debug/netcoreapp3.1/BitwiseAndShiftOperators.dll
+/home/zach/Repo/dotnetCSharpBook/Chp03/BitwiseAndShiftOperators/obj/Debug/netcoreapp3.1/BitwiseAndShiftOperators.pdb

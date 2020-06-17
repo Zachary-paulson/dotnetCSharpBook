@@ -1,0 +1,11 @@
+/home/zach/Repo/dotnetCSharpBook/Chp03/ConditionalLogicalOperators/bin/Debug/netcoreapp3.1/ConditionalLogicalOperators
+/home/zach/Repo/dotnetCSharpBook/Chp03/ConditionalLogicalOperators/bin/Debug/netcoreapp3.1/ConditionalLogicalOperators.deps.json
+/home/zach/Repo/dotnetCSharpBook/Chp03/ConditionalLogicalOperators/bin/Debug/netcoreapp3.1/ConditionalLogicalOperators.runtimeconfig.json
+/home/zach/Repo/dotnetCSharpBook/Chp03/ConditionalLogicalOperators/bin/Debug/netcoreapp3.1/ConditionalLogicalOperators.runtimeconfig.dev.json
+/home/zach/Repo/dotnetCSharpBook/Chp03/ConditionalLogicalOperators/bin/Debug/netcoreapp3.1/ConditionalLogicalOperators.dll
+/home/zach/Repo/dotnetCSharpBook/Chp03/ConditionalLogicalOperators/bin/Debug/netcoreapp3.1/ConditionalLogicalOperators.pdb
+/home/zach/Repo/dotnetCSharpBook/Chp03/ConditionalLogicalOperators/obj/Debug/netcoreapp3.1/ConditionalLogicalOperators.csprojAssemblyReference.cache
+/home/zach/Repo/dotnetCSharpBook/Chp03/ConditionalLogicalOperators/obj/Debug/netcoreapp3.1/ConditionalLogicalOperators.AssemblyInfoInputs.cache
+/home/zach/Repo/dotnetCSharpBook/Chp03/ConditionalLogicalOperators/obj/Debug/netcoreapp3.1/ConditionalLogicalOperators.AssemblyInfo.cs
+/home/zach/Repo/dotnetCSharpBook/Chp03/ConditionalLogicalOperators/obj/Debug/netcoreapp3.1/ConditionalLogicalOperators.dll
+/home/zach/Repo/dotnetCSharpBook/Chp03/ConditionalLogicalOperators/obj/Debug/netcoreapp3.1/ConditionalLogicalOperators.pdb
