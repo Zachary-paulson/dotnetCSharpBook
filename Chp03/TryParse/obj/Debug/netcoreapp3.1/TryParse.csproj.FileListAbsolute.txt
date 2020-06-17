@@ -1,0 +1,11 @@
+/home/zach/Repo/dotnetCSharpBook/Chp03/TryParse/bin/Debug/netcoreapp3.1/TryParse
+/home/zach/Repo/dotnetCSharpBook/Chp03/TryParse/bin/Debug/netcoreapp3.1/TryParse.deps.json
+/home/zach/Repo/dotnetCSharpBook/Chp03/TryParse/bin/Debug/netcoreapp3.1/TryParse.runtimeconfig.json
+/home/zach/Repo/dotnetCSharpBook/Chp03/TryParse/bin/Debug/netcoreapp3.1/TryParse.runtimeconfig.dev.json
+/home/zach/Repo/dotnetCSharpBook/Chp03/TryParse/bin/Debug/netcoreapp3.1/TryParse.dll
+/home/zach/Repo/dotnetCSharpBook/Chp03/TryParse/bin/Debug/netcoreapp3.1/TryParse.pdb
+/home/zach/Repo/dotnetCSharpBook/Chp03/TryParse/obj/Debug/netcoreapp3.1/TryParse.csprojAssemblyReference.cache
+/home/zach/Repo/dotnetCSharpBook/Chp03/TryParse/obj/Debug/netcoreapp3.1/TryParse.AssemblyInfoInputs.cache
+/home/zach/Repo/dotnetCSharpBook/Chp03/TryParse/obj/Debug/netcoreapp3.1/TryParse.AssemblyInfo.cs
+/home/zach/Repo/dotnetCSharpBook/Chp03/TryParse/obj/Debug/netcoreapp3.1/TryParse.dll
+/home/zach/Repo/dotnetCSharpBook/Chp03/TryParse/obj/Debug/netcoreapp3.1/TryParse.pdb

@@ -1,0 +1,11 @@
+/home/zach/Repo/dotnetCSharpBook/Chp03/CastingConverting/bin/Debug/netcoreapp3.1/CastingConverting
+/home/zach/Repo/dotnetCSharpBook/Chp03/CastingConverting/bin/Debug/netcoreapp3.1/CastingConverting.deps.json
+/home/zach/Repo/dotnetCSharpBook/Chp03/CastingConverting/bin/Debug/netcoreapp3.1/CastingConverting.runtimeconfig.json
+/home/zach/Repo/dotnetCSharpBook/Chp03/CastingConverting/bin/Debug/netcoreapp3.1/CastingConverting.runtimeconfig.dev.json
+/home/zach/Repo/dotnetCSharpBook/Chp03/CastingConverting/bin/Debug/netcoreapp3.1/CastingConverting.dll
+/home/zach/Repo/dotnetCSharpBook/Chp03/CastingConverting/bin/Debug/netcoreapp3.1/CastingConverting.pdb
+/home/zach/Repo/dotnetCSharpBook/Chp03/CastingConverting/obj/Debug/netcoreapp3.1/CastingConverting.csprojAssemblyReference.cache
+/home/zach/Repo/dotnetCSharpBook/Chp03/CastingConverting/obj/Debug/netcoreapp3.1/CastingConverting.AssemblyInfoInputs.cache
+/home/zach/Repo/dotnetCSharpBook/Chp03/CastingConverting/obj/Debug/netcoreapp3.1/CastingConverting.AssemblyInfo.cs
+/home/zach/Repo/dotnetCSharpBook/Chp03/CastingConverting/obj/Debug/netcoreapp3.1/CastingConverting.dll
+/home/zach/Repo/dotnetCSharpBook/Chp03/CastingConverting/obj/Debug/netcoreapp3.1/CastingConverting.pdb
